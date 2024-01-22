@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=axii03&label=Profile%20views&color=0e75b6&style=flat" alt="axii03" /> </p>
 
-- 🔭 I’m currently working on **Bug bounty projects**
+- 🔭 I’m currently working on **Bug bounty projects and developing a secure file transfer application**
 
 - 🌱 I’m currently learning **CTF and Bug Bounty methodologies**
 
-- 💬 Ask me about **CTF,burpsuite,metasploit**
+- 💬 Ask me about **CTF,burpsuite,metasploit and cryptography**
 
 - 📫 How to reach me **rememberaxii@gmail.com**
 
